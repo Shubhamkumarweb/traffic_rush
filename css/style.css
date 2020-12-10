@@ -18,7 +18,7 @@ body{
     display: flex;
     place-content: center;
     overflow: hidden;
-   background-image: url("/img/jungle.jpg");
+   background-image: url("../img/jungle.jpg");
 }
 .background
 {
@@ -31,7 +31,7 @@ body{
     width:340px;
     height: 700px;
     border:1px solid black;
-    background-image: url('/img/road.png');
+    background-image: url('../img/road.png');
     position: relative;
     /* background-size: cover; */
 }
